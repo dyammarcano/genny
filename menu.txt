@@ -1,0 +1,5 @@
+https://github.com/c-bata/go-prompt
+https://github.com/AlecAivazis/survey
+https://github.com/spf13/cobra
+
+https://awesome-go.com/advanced-console-uis/
