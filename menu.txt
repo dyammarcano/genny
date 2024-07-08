@@ -3,3 +3,4 @@ https://github.com/AlecAivazis/survey
 https://github.com/spf13/cobra
 
 https://awesome-go.com/advanced-console-uis/
+https://github.com/cheat/cheat
